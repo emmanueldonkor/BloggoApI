@@ -75,7 +75,7 @@ For detailed information about API endpoints, refer to the [API Reference](docs/
 ### Auth Module
 The Authentication module is responsible for managing user accounts, ensuring secure access, and handling user roles. It includes functionalities such as user registration, login, and role management. This module plays a crucial role in securing the application by verifying and authorizing user actions.
 
-![](static/architecture.png)
+![](static/Auth-Module.png)
 
 **Endpoints**
 - `POST /auth/register`: Register a new user.
